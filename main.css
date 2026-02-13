@@ -13,11 +13,12 @@ h1
 }
 
 body{
-    background-color: rgb(199, 209, 255);
+    background-color: rgb(255, 255, 255);
 }
 
 p{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 1em;
-    color:rgb(76, 76, 178)
+    color:rgb(76, 76, 178);
+    text-align: center;
 }
