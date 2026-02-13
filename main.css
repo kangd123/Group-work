@@ -11,6 +11,12 @@ h1
     font-size: 5em;
     transition: 2s;
 }
+:hover p{
+    color: rgb(78, 154, 241);
+    font-size: 1.5em;
+    transition: 2s;
+    font-weight: bold;
+}
 
 body{
     background-color: rgb(255, 255, 255);
